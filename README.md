@@ -1,5 +1,6 @@
--- Pharaoh V1 Script and Gui Made By SimsFileShare Global#5515 (Krypt Pyramid Script)
+-- Pharaoh V1 Script and Gui Made By Barak A. Global#5515 (Krypt Pyramid Script)
 -- Early Beta (Testing Only)
+-- Coding Language (LUA)
 
 -- Instances:
 
