@@ -119,7 +119,7 @@ TextLabel_2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 TextLabel_2.Position = UDim2.new(0, 0, 0.776945889, 0)
 TextLabel_2.Size = UDim2.new(0, 289, 0, 78)
 TextLabel_2.Font = Enum.Font.SourceSans
-TextLabel_2.Text = "Script and Gui Made By SimsFileShare/Barak Araka Global#5515"
+TextLabel_2.Text = "Script and Gui Made By SimsFileShare Global#5515"
 TextLabel_2.TextColor3 = Color3.fromRGB(0, 0, 0)
 TextLabel_2.TextSize = 15.000
 
